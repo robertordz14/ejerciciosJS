@@ -1,5 +1,5 @@
-const arr = [-6,7,0,-5,5,6,7,4,9];
-var pruebas = Math.sqrt(arr.length);
+const arr = [-6,7,0,-5];
+var pruebas = Math.sqrt(arr.length); 
 var diagonal2=0;
 var diagonal1=0;
 console.log('El numero notal de elementos del array son: '+arr.length)
